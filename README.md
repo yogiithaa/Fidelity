@@ -5,3 +5,5 @@
 <img width="916" alt="a2output3" src="https://github.com/user-attachments/assets/4d5aff3b-209b-464e-b0b5-a8c88ce349b4">
 ![image](https://github.com/user-attachments/assets/873893ff-fb78-4330-b667-0a6292ff3435)
 ![image](https://github.com/user-attachments/assets/65c50054-cd44-4e8d-aba6-e0a3cb1d46e9)
+<img width="949" alt="AC_FORM_OUTPUT" src="https://github.com/user-attachments/assets/8749097b-b5d8-4c6b-a8e1-14f947c8f281">
+<img width="842" alt="LINKEDLIST_OUTPUT" src="https://github.com/user-attachments/assets/be004e0e-c500-4c86-8cd1-3b77cc5bf5ad">
