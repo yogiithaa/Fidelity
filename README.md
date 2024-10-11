@@ -7,3 +7,5 @@
 ![image](https://github.com/user-attachments/assets/65c50054-cd44-4e8d-aba6-e0a3cb1d46e9)
 <img width="949" alt="AC_FORM_OUTPUT" src="https://github.com/user-attachments/assets/8749097b-b5d8-4c6b-a8e1-14f947c8f281">
 <img width="836" alt="LINKEDLIST_OUTPUT" src="https://github.com/user-attachments/assets/f023f6d5-1d70-497c-a61e-71daee376b29">
+<img width="675" alt="query1_output" src="https://github.com/user-attachments/assets/4b6d0c73-fd06-47da-ab13-88e040b812ec">
+<img width="668" alt="query2_output" src="https://github.com/user-attachments/assets/c4242d20-ec97-4a57-90f8-dc562b56f28b">
